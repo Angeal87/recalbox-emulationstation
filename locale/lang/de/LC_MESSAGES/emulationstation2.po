@@ -1021,11 +1021,11 @@ msgstr ""
 
 #: 
 msgid "SPACE"
-msgstr ""
+msgstr "LEERZEICHEN"
 
 #: 
 msgid "DELETE A CHAR"
-msgstr ""
+msgstr "EIN ZEICHEN LÖSCHEN"
 
 #: 
 msgid "SHIFT"
@@ -1033,17 +1033,17 @@ msgstr ""
 
 #: 
 msgid "STOP EDITING"
-msgstr ""
+msgstr "BEARBEITEN BEENDEN"
 
 #: 
 msgid "MOVE CURSOR"
-msgstr ""
+msgstr "CURSOR BEWEGEN"
 
 #: 
 msgid "EDIT"
-msgstr ""
+msgstr "BEARBEITEN"
 
 #: 
 msgid "ACCEPT RESULT"
-msgstr ""
+msgstr "ERGEBNIS AKZEPTIEREN"
 
